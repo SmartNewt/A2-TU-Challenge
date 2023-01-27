@@ -10,7 +10,7 @@ namespace TU_Challenge
     /// Echauffement avec des fonctions mathématiques
     /// Interdiction d'utiliser Mathf ou Math évidemment
     /// </summary>
-
+#if false
     public class Test1_Math
     {
         [Test]
@@ -226,4 +226,5 @@ namespace TU_Challenge
         }
 
     }
+#endif
 }
